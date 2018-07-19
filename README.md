@@ -4,6 +4,7 @@
 Comprender los conceptos básicos, aprender Python y ser capaz de diferenciar el aprendizaje automático, la minería de datos y el aprendizaje profundo
 
 - Presentaciones
+
   - [Entrevista con Tom Mitchell](http://videolectures.net/mlas06_mitchell_itm/)
   - [Una guía suave para el aprendizaje automático](https://blog.monkeylearn.com/a-gentle-guide-to-machine-learning/)
   - [¿Cuál es la diferencia entre Data Analytics, Data Analysis, Data Mining, Data Science, Machine Learning y Big Data?](Https://www.quora.com/What-is-the-difference-between-Data- Análisis-Datos-Análisis-Datos-Minería-Datos-Ciencia-Machine-Learning-and-Big-Data-1)
